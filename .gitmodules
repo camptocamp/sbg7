@@ -1,0 +1,4 @@
+[submodule "camptocamp/sbg6"]
+	path = camptocamp/sbg6
+	url = git@github.com:camptocamp/sbg6.git
+	branch = main
