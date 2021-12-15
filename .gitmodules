@@ -2,3 +2,8 @@
 	path = camptocamp/sbg6
 	url = git@github.com:camptocamp/sbg6.git
 	branch = main
+
+[submodule "OCA/hr"]
+	path = OCA/hr
+	url = git@github.com:OCA/hr.git
+	branch = 14.0
